@@ -1,0 +1,1 @@
+Running this program opens the camera using openCV and detects a face using the haar_face.xml classifier. minNeighbors is set to 15 to avoid poor detections and improve accuracy. Running the program opens a window with a box around a face that is detected. To quit simply press Q.
